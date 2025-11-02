@@ -112,7 +112,7 @@ module.exports = defineConfig([
       'max-statements': ['warn', 50],
 
       // show warnings for formatting issues
-      // 'prettier/prettier': 'warn',
+      'prettier/prettier': 'warn',
     },
 
     // ==============================
